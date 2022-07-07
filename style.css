@@ -28,6 +28,26 @@ section {
 }
 
 
+.expariance-area {
+    width: 80%;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-div-expariance {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 .half-width {
     width: 50%;
@@ -63,7 +83,23 @@ section {
 }
 
 .dream {
-    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.expariance-tabs {
+    padding: 30px;
+    margin: 20px;
+    background-color: white;
+    box-shadow: black;
+}
+
+.box-left {
+    border-left: 2px;
+    border-color: orange;
+}
+
+.box-right {
+    border-left: 2px;
+    border-color: rgb(255, 115, 0);
 }
