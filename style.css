@@ -43,6 +43,10 @@ section {
     padding-right: 50px;
 }
 
+.textbook-left {
+    padding-left: 50px;
+}
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -56,4 +60,10 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.dream {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
