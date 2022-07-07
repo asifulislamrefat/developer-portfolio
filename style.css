@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    align-items: center;
+    padding: 50px;
+}
+
+.main-div {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.half-width {
+    width: 50%;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.textbook {
+    padding-right: 50px;
+}
